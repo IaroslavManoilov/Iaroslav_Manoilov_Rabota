@@ -1,0 +1,16 @@
+{
+  "schema_version": "vitra-receipt-v1",
+  "workflow_id": "REPLACE_UTC_SKU",
+  "sku_or_family": "REPLACE",
+  "requested_tracks": ["card"],
+  "completed_at_utc": null,
+  "status": "pending",
+  "products": [],
+  "checks_performed": [],
+  "explicit_verification_result": "not_verified",
+  "estimated_logistics_fields": [],
+  "artifacts": [],
+  "disposable_paths": [],
+  "protected_fields_unchanged": null,
+  "notes": "Заполнить по фактической свежей проверке; не хранить секреты. artifacts/disposable_paths — только workspace-relative. products — фактические SKU, ID и URL."
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "vitra-handoff-research-v1",
+  "note": "Исследовательский формат, НЕ готовый payload CMS и НЕ старый vitra-line-v3 writer schema.",
+  "sku": "REPLACE",
+  "operation": "update_simple",
+  "identity_verified": false,
+  "sources": [],
+  "family": {"confirmed": false, "parent_id": null, "variant_skus": []},
+  "facts": [],
+  "category": {"id": null, "verified": false},
+  "content": {"ru": {}, "ro": {}, "en": {}},
+  "logistics": {},
+  "unresolved": [],
+  "status": "pending"
+}

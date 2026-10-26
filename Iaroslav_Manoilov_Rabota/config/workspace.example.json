@@ -1,0 +1,8 @@
+{
+  "admin_url": "https://admin.vitra.md",
+  "api_base": "https://api.vitra.md",
+  "cdp_url": "http://127.0.0.1:9228",
+  "content_project_url": "",
+  "work_dir": "styles/work",
+  "timezone": "Europe/Chisinau"
+}
